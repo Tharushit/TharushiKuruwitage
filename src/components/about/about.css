@@ -68,6 +68,9 @@
 .about__content p{
     color: var(--color-light);
     margin: 2rem 0 2.6rem;
+    font-size: 25px;
+    text-align: justify;
+    color: blueviolet;
 }
 
 /*----------MEDIA QUERIES (MEDIUM DEVICES)----------*/
@@ -92,7 +95,7 @@
 /*----------MEDIA QUERIES (MEDIUM DEVICES)----------*/
 @media screen and (max-width: 600px){
     .about__cards{
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr;
         gap: 1rem;
     }
 

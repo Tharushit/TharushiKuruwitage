@@ -18,7 +18,6 @@ function About() {
           </div>
         </div>
         
-
         <div className="about__content">
           <div className="about__cards">
 

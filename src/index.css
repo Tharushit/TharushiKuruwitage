@@ -11,12 +11,12 @@
 }
 
 :root{
-    --color-bg: #311f38;
-    --color-bg-variant: #552c6c;
-    --color-primary: #f1a8f8;
-    --color-primary-variant: rgba(199, 77, 255, 0.4);
-    --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.479);
+    --color-bg: #dacddf;
+    --color-bg-variant: #daa2fa;
+    --color-primary: #431847;
+    --color-primary-variant: rgba(141, 38, 189, 0.4);
+    --color-white: #240024;
+    --color-light: rgba(26, 4, 22, 0.479);
 
     --transition: all 400ms ease;
 
@@ -38,7 +38,7 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url('../src/assets/bg-texture.png');
+    background-image: url('../src/assets/bg-texture.jpg');
 }
 
 /*----------GENERAL STYLES----------*/
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5{
 }
 
 h1{
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 
 section{

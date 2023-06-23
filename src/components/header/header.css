@@ -38,7 +38,7 @@ header{
 
 /*---------- ME ----------*/
 
-.me{
+/* .me{
     background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
     height: 30rem;
@@ -48,7 +48,24 @@ header{
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
-}
+} */
+
+.me {
+    background: linear-gradient(var(--color-primary), transparent);
+    width: 22rem;
+    height: 35rem;
+    position: absolute;
+    left: calc(50% - 11rem);
+    margin-top: 4rem;
+    border-radius: 12rem 12rem 0 0;
+    overflow: hidden;
+    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+
 
 /*---------- SCROLL DOWN ----------*/
 
@@ -74,8 +91,7 @@ header{
         margin-top: 3rem;
         border-radius: 9rem 9rem 0 0;
         padding: 3rem 1.5rem 1.5rem 1.5rem;
-      }
-
+      } 
 }
 
 /*----------MEDIA QUERIES (MEDIUM DEVICES)----------*/
@@ -95,5 +111,6 @@ header{
         margin-top: 2rem;
         border-radius: 7rem 7rem 0 0;
         padding: 2rem 1.5rem 1.5rem 1.5rem;
-      }
+      } 
+
 }

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/TharushiKuruwitage/static/css/main.5b3997f4.css",
+    "main.js": "/TharushiKuruwitage/static/js/main.c29060a4.js",
+    "static/media/me1.png": "/TharushiKuruwitage/static/media/me1.ac442642e15b657ee9de.png",
+    "static/media/bg-texture.jpg": "/TharushiKuruwitage/static/media/bg-texture.1f756900bf304c5fef02.jpg",
+    "static/media/portfolio4.jpg": "/TharushiKuruwitage/static/media/portfolio4.9c88d444493ae7b7fb20.jpg",
+    "static/media/CV.pdf": "/TharushiKuruwitage/static/media/CV.f72c06efe47300c261d6.pdf",
+    "static/media/portfolio2.png": "/TharushiKuruwitage/static/media/portfolio2.52d481b5a69a3dace3ce.png",
+    "static/media/avatar3.jpg": "/TharushiKuruwitage/static/media/avatar3.22dc81ae277b8346fdac.jpg",
+    "static/media/me.png": "/TharushiKuruwitage/static/media/me.f45d0f0a5332e9fcf9ea.png",
+    "static/media/portfolio5.png": "/TharushiKuruwitage/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/avatar7.jpeg": "/TharushiKuruwitage/static/media/avatar7.ac83520139f88cd75e8d.jpeg",
+    "static/media/portfolio3.jpeg": "/TharushiKuruwitage/static/media/portfolio3.6c9a52ad89fb2c3858e5.jpeg",
+    "static/media/portfolio6.jpg": "/TharushiKuruwitage/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/avatar1.jpg": "/TharushiKuruwitage/static/media/avatar1.5804dc126804f30eef27.jpg",
+    "static/media/avatar5.jpg": "/TharushiKuruwitage/static/media/avatar5.6e32776fa7325ae200ae.jpg",
+    "static/media/avatar6.jpg": "/TharushiKuruwitage/static/media/avatar6.5fb2c9edd88e196949f9.jpg",
+    "static/media/portfolio1.jpg": "/TharushiKuruwitage/static/media/portfolio1.06751ca141207fde667c.jpg",
+    "static/media/avatar4.jpg": "/TharushiKuruwitage/static/media/avatar4.0c50d96560d0162377f6.jpg",
+    "index.html": "/TharushiKuruwitage/index.html",
+    "main.5b3997f4.css.map": "/TharushiKuruwitage/static/css/main.5b3997f4.css.map",
+    "main.c29060a4.js.map": "/TharushiKuruwitage/static/js/main.c29060a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3997f4.css",
+    "static/js/main.c29060a4.js"
+  ]
+}
